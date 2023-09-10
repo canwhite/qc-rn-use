@@ -46,5 +46,5 @@ export const StyledButtonText = styled(
     color: '$rose50',
     fontWeight: '400',
   },
-  {ancestorStyle: ['_text']},
+  // {ancestorStyle: ['_text']},
 );
